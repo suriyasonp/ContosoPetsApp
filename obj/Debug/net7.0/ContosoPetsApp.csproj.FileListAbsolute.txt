@@ -1,0 +1,15 @@
+/Users/foress/Projects/Learn/CsharpProjects/ContosoPetsApp/bin/Debug/net7.0/ContosoPetsApp
+/Users/foress/Projects/Learn/CsharpProjects/ContosoPetsApp/bin/Debug/net7.0/ContosoPetsApp.deps.json
+/Users/foress/Projects/Learn/CsharpProjects/ContosoPetsApp/bin/Debug/net7.0/ContosoPetsApp.runtimeconfig.json
+/Users/foress/Projects/Learn/CsharpProjects/ContosoPetsApp/bin/Debug/net7.0/ContosoPetsApp.dll
+/Users/foress/Projects/Learn/CsharpProjects/ContosoPetsApp/bin/Debug/net7.0/ContosoPetsApp.pdb
+/Users/foress/Projects/Learn/CsharpProjects/ContosoPetsApp/obj/Debug/net7.0/ContosoPetsApp.csproj.AssemblyReference.cache
+/Users/foress/Projects/Learn/CsharpProjects/ContosoPetsApp/obj/Debug/net7.0/ContosoPetsApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/foress/Projects/Learn/CsharpProjects/ContosoPetsApp/obj/Debug/net7.0/ContosoPetsApp.AssemblyInfoInputs.cache
+/Users/foress/Projects/Learn/CsharpProjects/ContosoPetsApp/obj/Debug/net7.0/ContosoPetsApp.AssemblyInfo.cs
+/Users/foress/Projects/Learn/CsharpProjects/ContosoPetsApp/obj/Debug/net7.0/ContosoPetsApp.csproj.CoreCompileInputs.cache
+/Users/foress/Projects/Learn/CsharpProjects/ContosoPetsApp/obj/Debug/net7.0/ContosoPetsApp.dll
+/Users/foress/Projects/Learn/CsharpProjects/ContosoPetsApp/obj/Debug/net7.0/refint/ContosoPetsApp.dll
+/Users/foress/Projects/Learn/CsharpProjects/ContosoPetsApp/obj/Debug/net7.0/ContosoPetsApp.pdb
+/Users/foress/Projects/Learn/CsharpProjects/ContosoPetsApp/obj/Debug/net7.0/ContosoPetsApp.genruntimeconfig.cache
+/Users/foress/Projects/Learn/CsharpProjects/ContosoPetsApp/obj/Debug/net7.0/ref/ContosoPetsApp.dll
